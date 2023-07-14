@@ -5,7 +5,7 @@
 ![image.png](https://s2.loli.net/2023/04/18/63ayU8Tz2HvGs5V.png)
 
 ## 适配版本
-- 7.1.30 ~ 7.8.80
+- 7.1.30 ~ 7.9.90
 
 ## Config 解密方法
 
